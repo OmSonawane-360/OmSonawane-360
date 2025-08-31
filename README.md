@@ -1,7 +1,7 @@
 # 💫 About Me:
 - 🌱 Working with **Generative AI & Agentic AI** to build future-ready solutions  <br>- 💻 Freelance **Full-Stack Developer & Designer** | Passionate about **UI/UX**  <br>- 📊 Expanding skills in **Data Analytics & Data Science** to solve real-world problems  <br>- 🚀 Interested in **AI, scalable tech, and product-based innovations**  <br>- 💻 Continuously learning, building, and innovating with technology  <br>- 🎯 Goal: Blend **creativity + technology** to craft impactful digital products  <br>- 🤝 Open to **collaborations, freelance opportunities, and innovative projects**  <br>
  
-
+ 
 ## 🌐 Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.behance.net/omkarpatil110) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/@me) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/om_patil.73) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/om-sonawane360/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@ompatil16476978) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ompatil0357@gmail.com) 
 
